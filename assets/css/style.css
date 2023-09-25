@@ -304,7 +304,7 @@ header {
     left: 40%;
     border: none;
     outline: none;
-    background: url("img/left.svg") 0 0 no-repeat;
+    background: url("/500x700/assets/img/left.svg") 0 0 no-repeat;
     width: 105px;
     height: 40px;
 }
@@ -312,7 +312,7 @@ header {
 .slick-arrow.slick-prev:hover {
     color: #75FF72;
     transition: color 0.5s;
-    background: url("img/lefthover.svg") 0 0 no-repeat;
+    background: url("/500x700/assets/img/lefthover.svg") 0 0 no-repeat;
 }
 
 /* Стрелка вправо */
