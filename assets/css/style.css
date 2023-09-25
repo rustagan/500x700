@@ -320,13 +320,13 @@ header {
     right: 40%;
     border: none;
     outline: none;
-    background: url("img/right.svg") 0 0 no-repeat;
+    background: url("/500x700/assets/img/right.svg") 0 0 no-repeat;
     width: 105px;
     height: 40px;
 }
 
 .slick-arrow.slick-next:hover {
-    background: url("img/righthover.svg") 0 0 no-repeat;
+    background: url("/500x700/assets/img/righthover.svg") 0 0 no-repeat;
 }
 
 .slider__item {
