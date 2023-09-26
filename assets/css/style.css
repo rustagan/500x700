@@ -763,6 +763,10 @@ footer .footer_container .footer_link a {
 footer .footer_container .footer_icons {
     display: flex;
     align-items: center;
+    position: absolute;
+    max-width: 1240px;
+    width: 100%;
+    justify-content: center;
 }
 
 footer .footer_container .footer_icons .footer_icon {
